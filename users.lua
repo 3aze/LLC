@@ -1,4 +1,5 @@
 local VIDS = {
-    [4021995927] = true
+    [12345678] = true
 }
-return
+
+return VIDS
