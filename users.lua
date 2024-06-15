@@ -1,5 +1,5 @@
-local VIDS = {
-    [4021995927] = true
+local buyers = {
+    ["2924066123"] = true,
+    ["4021995927"] = true,
 }
-
-return VIDS
+return buyers
