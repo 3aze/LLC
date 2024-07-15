@@ -18,7 +18,6 @@ textLabel.Size = UDim2.new(0.8, 0, 0, 30)
 textLabel.Position = UDim2.new(0.1, 0, 0.4, 0)
 textLabel.BackgroundTransparency = 1
 textLabel.Parent = frame
-
 textLabel.AutoLocalize = true
 textLabel.TextScaled = true
 textLabel.TextWrap = true
