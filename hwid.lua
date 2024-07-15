@@ -1,6 +1,6 @@
 toclipboard(game:service("RbxAnalyticsService"):GetClientId())
 local gui = Instance.new("ScreenGui")
-gui.Parent = game.Players.LocalPlayer.PlayerGui
+gui.Parent = game.CoreGui
 
 local frame = Instance.new("Frame")
 frame.BackgroundColor3 = Color3.new(0, 0, 0)
