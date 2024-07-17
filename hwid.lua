@@ -26,4 +26,4 @@ textLabel.TextYAlignment = Enum.TextYAlignment.Center
 
 wait(5)
 
-game.Players.LocalPlayer:Kick()
+gui:Destroy()
